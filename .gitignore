@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Large data files
+*.zip
+*.pt
+*.pth
+eeg extract/
+
+# Generated images (optional - remove if you want to track these)
+# *.png
+
+# Virtual environment
+venv/
+env/
+.env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Samples directory (if large)
+# samples/
